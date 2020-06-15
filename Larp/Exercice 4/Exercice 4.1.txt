@@ -1,0 +1,5 @@
+Exercice 4.1
+
+(Tutu > Toto + 4) ou (Tata = "OK")
+! [(Tutu <= Toto + 4) ET (Tata <> "OK")]
+                               !=
